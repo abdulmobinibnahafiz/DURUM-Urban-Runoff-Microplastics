@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Standardizing microplastic data in urban runoff: Development and applications of the DURUM database"
+message: "If you use this repository, please cite it as below."
+type: dataset
+authors:
+  - name: "Abdul Mobin Ibna Hafiz"
+  - name: "Ebrahim Ahmadisharaf"
+  - name: "Maryam Salehi"
+  - name: "Tim H. M. van Emmerik"
+  - name: "Jeffrey Farner"
+  - name: "Jason C. White"
+  - name: "Yanxu Zhang"
+  - name: "Tamara Galloway"
+  - name: "Naipeng Han"
+  - name: "Wen Zongguo"
+license: CC-BY-4.0
+version: 0.1.0
+date-released: 2025-10-15
+preferred-citation:
+  type: dataset
+  authors:
+  - name: "Abdul Mobin Ibna Hafiz"
+  - name: "Ebrahim Ahmadisharaf"
+  - name: "Maryam Salehi"
+  - name: "Tim H. M. van Emmerik"
+  - name: "Jeffrey Farner"
+  - name: "Jason C. White"
+  - name: "Yanxu Zhang"
+  - name: "Tamara Galloway"
+  - name: "Naipeng Han"
+  - name: "Wen Zongguo"
+  year: 2025
+  title: "Standardizing microplastic data in urban runoff: Development and applications of the DURUM database"
+  version: 0.1.0
+  doi: 10.0000/TBD
+abstract: |
+  Urban runoff represents a critical transport pathway of microplastics (MPs) connecting terrestrial sources to aquatic ecosystems. However, predictive modeling capabilities for microplastic transport and fate in urban systems, which can assist mitigation measures, remain severely constrained by the absence of comprehensive standardized datasets. This study presents the Database of Urban RUnoff Microplastics (DURUM), the first dedicated global database of MPs in urban stormwater systems, encompassing surface runoff from streets, residential catchments, commercial districts, industrial areas, and urban drainage infrastructure, systematically compiling and harmonizing data from 28 peer-reviewed studies spanning 15 countries and encompassing 180 measurement records collected between 2018-2024. DURUM integrates and standardizes MP concentrations, particle size distributions, morphological characteristics, polymer compositions, and hydrometeorological metadata through systematic harmonization protocols developed in this study to support microplastic transport and fate modeling, calibration, and validation across diverse urban environments. The standardization protocol converts diverse reporting units to particles per liter, harmonizes size classification schemes, and establishes consistent metadata formats to enable future database expansion and inter-study comparisons. MP concentrations exhibited substantial variability spanning nearly five orders of magnitude, ranging from 0.16 to 18,966 particles/L across residential, commercial, industrial, and transportation corridors. Mass concentrations were not consistently reported across studies and thus excluded from standardization; all analyses are based on particle number concentrations. The geometric mean of 33.2 particles/L reflects the log-normal distribution typical of environmental contaminants, though concentrations varied dramatically by land use type and methodological approach. Fibrous particles dominated the morphological inventory across all records (38.9%), followed by fragments (33.5%), while polyethylene (27.4%) and polypropylene (26.5%) represented the most abundant polymer classes. Hydrometeorological parameters including antecedent dry periods, rainfall intensity, and temperature were inconsistently reported (present in only 23% of records), limiting temporal variability analysis and representing a critical data standardization need for future transport modeling applications. Reported particle concentrations varied significantly by analytical method, with studies detecting particles ≤100 μm yielding median concentrations approximately 10-fold higher than those limited to >100 μm detection ranges (median: 70 vs. 7 particles/L), reflecting the expected increase in particle abundance with decreasing size while underscoring that analytical method selection fundamentally constrains cross-study comparability. This database addresses the absence of standardized, globally-compiled datasets necessary for predictive modeling of MP transport in urban stormwater systems. By harmonizing concentration data, particle characteristics, and environmental metadata across diverse geographic and methodological contexts, DURUM provides the empirical foundation for developing and validating mechanistic transport models, statistical relationships, and machine learning frameworks capable of predicting MP fate across varied urban compartments. This standardized dataset enables robust model calibration, cross-validation, and uncertainty quantification, essential for evidence-based pollution control strategies. While this compilation focuses on microplastics (<5 μm), nanoplastics (<1 μm) represent an emerging concern with greater toxicological significance but present substantial analytical challenges that currently preclude systematic database inclusion.
+  KEYWORDS: Microplastics; Modeling; Sampling; Plastic Pollution; Stormwater; Runoff.
+repository-code: "https://github.com/yourname/durum-urban-runoff-microplastics"
+keywords:
+  - microplastics
+  - urban runoff
+  - stormwater
+  - database
+  - DURUM

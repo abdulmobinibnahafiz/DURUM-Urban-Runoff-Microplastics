@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/global_MP_Map.png" width="90%" alt="Global Urban Runoff Microplastic Map">
+  <img src="https://raw.githubusercontent.com/abdulmobinibnahafiz/DURUM-Urban-Runoff-Microplastics/main/assets/Global_MP_Map.png" 
+       width="90%" 
+       alt="Global Urban Runoff Microplastic Map">
 </p>
+
 
 # DURUM: Database of Urban RUnoff Microplastics
 

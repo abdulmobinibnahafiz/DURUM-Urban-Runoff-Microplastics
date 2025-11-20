@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/global_MP_Map.png" width="90%" alt="Global Urban Runoff Microplastic Map">
+</p>
+
 # DURUM: Database of Urban RUnoff Microplastics
 
 **Paper title:** *Standardizing microplastic data in urban runoff: Development and applications of the DURUM database*

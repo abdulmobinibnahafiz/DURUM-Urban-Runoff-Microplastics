@@ -69,17 +69,3 @@ See **[`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md)** for column descript
 Contributions (issues, pull requests) are welcome. See `CONTRIBUTING.md`.
 
 ---
-
-## Git LFS (only if your Excel >100 MB)
-If the Excel file is ≥100 MB, GitHub web upload will be blocked. Either split the file or set up Git LFS locally:
-
-```bash
-# one-time install
-git lfs install
-# track large file types
-git lfs track "*.xlsx"
-git add .gitattributes
-git add data/Urban\ Runoff\ MP\ Database_072025.xlsx
-git commit -m "Add dataset via LFS"
-git push
-```

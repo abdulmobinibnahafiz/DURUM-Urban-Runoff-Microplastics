@@ -44,7 +44,7 @@ KEYWORDS: Microplastics; Modeling; Sampling; Plastic Pollution; Stormwater; Runo
 ---
 
 ## Citation
-If you use DURUM, please cite: **Ibna Hafiz et al. (2025)** — *Standardizing microplastic data in urban runoff: Development and applications of the DURUM database*. 2025. Version 0.1.0. DOI: *TBD*.
+Hafiz, A.M.I., Ahmadisharaf, E., Salehi, M. et al. A global dataset of microplastics in urban stormwater runoff (2018–2024). Sci Data (2026). https://doi.org/10.1038/s41597-026-07137-y
 
 A machine-readable citation is provided in `CITATION.cff`.
 

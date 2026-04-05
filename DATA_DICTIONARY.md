@@ -40,7 +40,7 @@ This file provides a concise one-line description for every variable in the *Urb
 **Dominant polymer (s)** — Most frequently occurring polymer type(s).  
 **Dominant size range** — Reported dominant microplastic size range from the study.  
 **Numeric Size (µm)** — Midpoint of the dominant size range expressed in micrometers.  
-**Standardized Size Bin** — Assigned size-bin category based on standardized definitions.  
+**Standardized Size Bin** — Assigned size-bin category based on standardized definitions for the dominant size range identified.  
 **Dominant shape** — Most frequently observed microplastic shape (e.g., fiber, fragment).  
 **Decimal Latitude** — Latitude converted to decimal degrees (cleaned field).  
 **Decimal Longitude** — Longitude converted to decimal degrees (cleaned field).  

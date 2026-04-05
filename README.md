@@ -43,17 +43,6 @@ KEYWORDS: Microplastics; Modeling; Sampling; Plastic Pollution; Stormwater; Runo
 
 ---
 
-## Quick Start
-1. Download this repository (Code → Download ZIP) or clone it.
-2. Place your files:
-   - `Urban Runoff MP Database_072025.xlsx` into `data/`
-   - `Database code.ipynb` into `notebooks/`
-3. Open `notebooks/Database code.ipynb` in Jupyter Lab or Google Colab.
-4. Ensure the Excel file path in the notebook points to `data/Urban Runoff MP Database_072025.xlsx`.
-5. Run all cells to reproduce summary outputs.
-
----
-
 ## Citation
 If you use DURUM, please cite: **Ibna Hafiz et al. (2025)** — *Standardizing microplastic data in urban runoff: Development and applications of the DURUM database*. 2025. Version 0.1.0. DOI: *TBD*.
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulmobinibnahafiz/DURUM-Urban-Runoff-Microplastics/main/assets/Figure 2.png" 
+  <img src="https://raw.githubusercontent.com/abdulmobinibnahafiz/DURUM-Urban-Runoff-Microplastics/main/assets/Figure_2.png" 
        width="90%" 
        alt="Global Urban Runoff Microplastic Map">
 </p>
